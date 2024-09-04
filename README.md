@@ -1,2 +1,2 @@
 # React_Food_ordering
-Food ordering website using react 
+Food ordering website using react  app
